@@ -32038,6 +32038,26 @@
 			)
 		)
 	)
+	(gr_line
+		(start 162.72 87.02)
+		(end 164.76 85.04)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "F.SilkS")
+		(uuid "adf76281-8952-4558-9648-52ff2be5be0f")
+	)
+	(gr_line
+		(start 156.3 87.02)
+		(end 162.72 87.02)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "F.SilkS")
+		(uuid "e440bdc0-0444-451b-abcb-1c2648e72b44")
+	)
 	(gr_arc
 		(start 179.51 87.12)
 		(mid 178.572742 89.382742)
@@ -32121,6 +32141,175 @@
 		)
 		(layer "Edge.Cuts")
 		(uuid "a2c0f88c-e651-4ee1-8255-a79802515087")
+	)
+	(gr_text "LR-Amp"
+		(at 80.83 70.31 0)
+		(layer "F.SilkS")
+		(uuid "1a45faa5-c914-44b5-8eec-5ceca0daed01")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.1)
+			)
+			(justify left bottom)
+		)
+	)
+	(gr_text "9-12V"
+		(at 165.2 43.33 0)
+		(layer "F.SilkS")
+		(uuid "2553272b-5f80-477d-afb4-8edc43df705c")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.1)
+			)
+			(justify left bottom)
+		)
+	)
+	(gr_text "SCL\n"
+		(at 126.57 48.55 0)
+		(layer "F.SilkS")
+		(uuid "5926de03-03c5-4014-8986-ffa83bd0c82d")
+		(effects
+			(font
+				(size 1 0.5)
+				(thickness 0.1)
+			)
+			(justify left bottom)
+		)
+	)
+	(gr_text "1->"
+		(at 133.69 88.55 0)
+		(layer "F.SilkS")
+		(uuid "626a1e0e-02e7-409a-8b30-16396a5d14be")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.1)
+			)
+			(justify left bottom)
+		)
+	)
+	(gr_text "LF-Amp"
+		(at 80.87 59.06 0)
+		(layer "F.SilkS")
+		(uuid "6ead466d-a37d-4571-85e3-f74a741b961c")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.1)
+			)
+			(justify left bottom)
+		)
+	)
+	(gr_text "SDA"
+		(at 126.558096 51.163333 0)
+		(layer "F.SilkS")
+		(uuid "79cc0325-714d-4726-9808-cf82554cb32d")
+		(effects
+			(font
+				(size 1 0.5)
+				(thickness 0.1)
+			)
+			(justify left bottom)
+		)
+	)
+	(gr_text "RR-Amp"
+		(at 80.61 81.64 0)
+		(layer "F.SilkS")
+		(uuid "a083b1b0-5e65-4307-9106-0e6755736d7d")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.1)
+			)
+			(justify left bottom)
+		)
+	)
+	(gr_text "-"
+		(at 152.92 41.77 0)
+		(layer "F.SilkS")
+		(uuid "aa8346cc-fb81-441a-9a9a-741226114091")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.1)
+			)
+			(justify left bottom)
+		)
+	)
+	(gr_text "LF-Amp"
+		(at 80.77 49.64 0)
+		(layer "F.SilkS")
+		(uuid "b1b718f8-2bbe-4b23-a8ad-c815a82a6770")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.1)
+			)
+			(justify left bottom)
+		)
+	)
+	(gr_text "+"
+		(at 165.01 41.83 0)
+		(layer "F.SilkS")
+		(uuid "b8396640-0ce4-4ad9-a93b-6549f38d6d0b")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.1)
+			)
+			(justify left bottom)
+		)
+	)
+	(gr_text "Gnd"
+		(at 126.558095 53.776667 0)
+		(layer "F.SilkS")
+		(uuid "bbad41df-0b75-4004-b327-ecb321aa4851")
+		(effects
+			(font
+				(size 1 0.5)
+				(thickness 0.1)
+			)
+			(justify left bottom)
+		)
+	)
+	(gr_text "Diseñado por Emanuel Decima\n\nProcesador de Audio de 4 Canales\nBasado en IC PT2313L"
+		(at 102.89 87.09 0)
+		(layer "F.SilkS")
+		(uuid "e615beff-ddd8-47ee-b71d-b525d75c6656")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.2)
+				(bold yes)
+			)
+			(justify left bottom)
+		)
+	)
+	(gr_text "1-LIN1\n2-LIN2\n3-LIN3\n4-RIN1\n5-RIN3\n6-RIN2"
+		(at 165.78 86.36 0)
+		(layer "F.SilkS")
+		(uuid "ec4bb781-3b6a-4451-8014-04f62baa2f8c")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.1)
+			)
+			(justify left bottom)
+		)
+	)
+	(gr_text "Vcc"
+		(at 126.61762 56.39 0)
+		(layer "F.SilkS")
+		(uuid "fc3c419c-dfa5-4559-a18c-e4883da1ce15")
+		(effects
+			(font
+				(size 1 0.5)
+				(thickness 0.1)
+			)
+			(justify left bottom)
+		)
 	)
 	(segment
 		(start 148.2 63.83)
