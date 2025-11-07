@@ -13,7 +13,8 @@ Módulo estéreo de control de volumen, tono, balance y loudness basado en el in
 
 ## 🖼️ Esquema y PCB
 ![Esquemático del módulo](docs/schematic.pdf)
-![Diseño PCB](docs/pcb_render_top.png)(docs/pcb_render_back.png)
+![Diseño PCB](docs/pcb_render_front.png)
+![Diseño PCB](docs/pcb_render_back.png)
 
 ## ⚙️ Documentación técnica
 El módulo está basado en el integrado **PT2313L**, un procesador de audio con control digital I²C.  
