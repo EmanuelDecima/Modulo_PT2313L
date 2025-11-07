@@ -12,7 +12,7 @@ Módulo estéreo de control de volumen, tono, balance y loudness basado en el in
 - Conector de 4 pines para comunicación mediante bus I²C.
 
 ## 🖼️ Esquema y PCB
-![Esquemático del módulo](docs/schematic.pdf)
+![Esquemático del módulo](docs/schematic.png)
 ![Diseño PCB](docs/pcb_render_front.png)
 ![Diseño PCB](docs/pcb_render_back.png)
 
